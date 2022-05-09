@@ -7,7 +7,7 @@ import sys
 with open('wordle-original.txt') as originalfile:
     originalwordlist =  originalfile.readlines()
 
-with open('wordle-nyt-mo.txt') as nytopenfile:
+with open('wordle-nyt-ko.txt') as nytopenfile:
     nytwordlist = nytopenfile.readlines()
 
 
